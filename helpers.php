@@ -9,5 +9,5 @@
 
 function base_path($path = '')
 {
-  return dirname(__DIR__) . '/' . $path;
+  return __DIR__ . '/' . $path;
 }

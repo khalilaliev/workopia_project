@@ -1,4 +1,4 @@
 <?php
 
-require '../helpers/helpers.php';
+require '../helpers.php';
 require base_path('views/home.view.php');
